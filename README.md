@@ -17,11 +17,15 @@ Credits: The dataset is taken from Open Data Telangana. Thanks to the Telangana 
 # Metadata
 [Metadata description](https://github.com/esther-ethel/telangana_growth_analysis/blob/main/Metadata.txt)
 
+# Data Model
+
+![data model](https://github.com/esther-ethel/telangana_growth_analysis/assets/49029125/f6929f8f-1af0-4d23-8c16-81f52a398c60)
+
 # Dashboard Link
 Telanaga Growth Analysis [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDU1ZjYyZGEtZmZhZi00NjVlLWIzYjYtNDU3ZWY3OTY1MmQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # Audio Presentation
-
+Telangana Growth Analysis [Audio](https://github.com/esther-ethel/telangana_growth_analysis/blob/main/Telanga_Growth_Analysis_Audio.mp4)
 
 # Presentation Pdf
 Telanaga Growth Analysis [Pdf](https://github.com/esther-ethel/telangana_growth_analysis/blob/main/Telanaga%20Growth%20Analysis.pdf)
